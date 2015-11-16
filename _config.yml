@@ -1,6 +1,6 @@
 title:            WYZISH
 description:      "The Coolest Theme for Jekyll"
-logo:             omikron.png
+# logo:             omikron.png
 disqus_shortname: wyzish
 # Assign a default image for your site's header and footer
 default_bg:       default_bg1.jpg
@@ -18,7 +18,7 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		   /www.wyzish.com
+url: http://wyzish.com
 
 # Owner/author information
 owner:
@@ -38,7 +38,7 @@ owner:
 google_analytics:  
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+# bing_verify:         
 
 # Links to include in footer navigation
 # For external links add external: true
